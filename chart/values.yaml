@@ -1,6 +1,6 @@
 # Global Values
 repoUrl: 'https://github.com/aws-samples/eks-blueprints-add-ons.git'
-targetRevision: 1.0
+targetRevision: release-1-1
 region: ''
 account: ''
 clusterName: ''
